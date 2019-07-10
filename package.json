@@ -1,0 +1,11 @@
+{
+  "name": "app-prova",
+  "version": "1.0.0",
+  "description": "Prova de conceito leitura e retorno json de dados",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alysson Rodrigues de Moura",
+  "license": "ISC"
+}
