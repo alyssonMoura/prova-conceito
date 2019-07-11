@@ -1,5 +1,5 @@
 {
-  "name": "app-prova",
+  "name": "prova-conceito",
   "version": "1.0.0",
   "description": "Prova de conceito leitura e retorno json de dados",
   "main": "app.js",
